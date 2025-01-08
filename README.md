@@ -7,4 +7,6 @@ Demo & Features: https://cakephp5-user-management.ektanjali.com/
 
 Download: https://www.codinghotspot.com/item/cakephp-5.x-user-management-plugin-with-twitter-bootstrap-5.x/15
 
+For any query please contact us on whatsapp +91 84492 84494
+
 Last tested on 04-Jan-2025
